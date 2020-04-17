@@ -1,0 +1,11 @@
+/Users/ilyaletenkov/Projects/lab08_02/lab08_02/obj/Debug/netcoreapp3.1/lab08_02.csprojAssemblyReference.cache
+/Users/ilyaletenkov/Projects/lab08_02/lab08_02/obj/Debug/netcoreapp3.1/lab08_02.AssemblyInfoInputs.cache
+/Users/ilyaletenkov/Projects/lab08_02/lab08_02/obj/Debug/netcoreapp3.1/lab08_02.AssemblyInfo.cs
+/Users/ilyaletenkov/Projects/lab08_02/lab08_02/bin/Debug/netcoreapp3.1/lab08_02
+/Users/ilyaletenkov/Projects/lab08_02/lab08_02/bin/Debug/netcoreapp3.1/lab08_02.deps.json
+/Users/ilyaletenkov/Projects/lab08_02/lab08_02/bin/Debug/netcoreapp3.1/lab08_02.runtimeconfig.json
+/Users/ilyaletenkov/Projects/lab08_02/lab08_02/bin/Debug/netcoreapp3.1/lab08_02.runtimeconfig.dev.json
+/Users/ilyaletenkov/Projects/lab08_02/lab08_02/bin/Debug/netcoreapp3.1/lab08_02.dll
+/Users/ilyaletenkov/Projects/lab08_02/lab08_02/bin/Debug/netcoreapp3.1/lab08_02.pdb
+/Users/ilyaletenkov/Projects/lab08_02/lab08_02/obj/Debug/netcoreapp3.1/lab08_02.dll
+/Users/ilyaletenkov/Projects/lab08_02/lab08_02/obj/Debug/netcoreapp3.1/lab08_02.pdb
